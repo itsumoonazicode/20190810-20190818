@@ -3,7 +3,7 @@
 	margin: 0;
 }
 
-.relative {
+/* .relative {
 	position: relative;
 	top: 10px;
 	left: 10px;
@@ -45,4 +45,17 @@
 	position: fixed;
 	top: 0;
 	left: 0;
+} */
+
+
+.header {
+	height: 50px;
+	background: #aaaaaa;
+}
+.contents {
+	min-height: 1000px;
+}
+.footer {
+	position: sticky;
+	bottom: 0;
 }
