@@ -18,6 +18,10 @@ h1 {
 	height: 100px;
 }
 
+.relative {
+	position: relative;
+}
+
 .sticky-item {
 	position: sticky;
 	top: 0;
@@ -40,4 +44,15 @@ h1 {
 	top: 16px;
 	left: 0;
 	z-index: 0;
+}
+
+.absolute-item {
+	position: absolute;
+	top: 36px;
+	left: -4px;
+	margin: 0;
+	/* 装飾部分 */
+	background: #ffc778;
+	color: #fff;
+	z-index: 1;
 }
