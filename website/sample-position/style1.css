@@ -9,6 +9,10 @@ body {
 	font-size: 1.2em;
 }
 
+.mt-4 {
+	margin-top: 4rem !important;
+}
+
 h1 {
 	font-size: 2rem;
 }
@@ -23,7 +27,7 @@ h1 {
 }
 
 .sticky-item {
-	position: fixed;
+	position: sticky;
 	top: 0;
 	left: 0;
 	width: 100%;
