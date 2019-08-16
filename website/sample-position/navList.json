@@ -1,0 +1,16 @@
+{
+	"FooterList": [
+		{
+			"name": "Date",
+			"id": 2
+		},
+		{
+			"name": "Category",
+			"id": 3
+		},
+		{
+			"name": "Monthly",
+			"id": 1
+		}
+	]
+}
